@@ -15,6 +15,9 @@
 - ネジ・スペーサー
 - トラックボール用セラミックボール
 
+<details><summary>パーツ画像一覧</summary>
+<p>
+
 |<br>![part](./img/part012.jpg)|
 |-|
 |メインPCB 1個|
@@ -47,6 +50,9 @@
 |<br>![part](./img/part004.jpg)|
 |スペーサ M2x5 3個|
 
+</p>
+</details>
+
 ### 別途必要な部品
 - BLE Micro Pro x1
 - コンスルーまたはピンヘッダ x2
@@ -58,6 +64,9 @@
 - MX互換スイッチ x43
 - MX用キーキャップ x43
 
+<details><summary>パーツ画像一覧</summary>
+<p>
+
 |<br>![part](./img/part006.jpg)|
 |-|
 |BLE Micro Pro 1個|
@@ -65,6 +74,9 @@
 |コンスルー 2個|
 |<br>![part](./img/part008.jpg)|
 |タミヤ ボールキャスター 1個|
+
+</p>
+</details>
 
 ### 工具の確認
 - ハンダコテ、はんだ
