@@ -162,7 +162,11 @@
 ### BLE Micro Proを取り付けて動作確認する
 ![build](./img/build016.jpg)
 ![build](./img/build019.jpg)
-- BLE Micro ProにKugel用のファームウェアを書き込みます  
+- BLE Micro Proのファームウェアをアップデートします
+  - [https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/doc/getting_start.md](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/doc/getting_start.md)
+- Kugel用のファームウェアを書き込みます
+  - [ビルド済みファームウェア](https://github.com/sekigon-gonnoc/Kugel-doc/releases)
+- Kugel用のコンフィグ(*.JSN)を書き込みます
 - BLE Micro ProのUSBコネクタ側に寄せてコンスルーを取り付けます。Pro Microと異なりはんだ付けは不要です  
 - BLE Micro Proを裏向きでKugelに取り付けます  
 - USBでパソコンに接続してキー入力ができることを確認してください
