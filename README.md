@@ -184,14 +184,14 @@
 ![build](./img/build019.jpg)
 ![build](./img/build028.jpg)
 ![build](./img/build029.jpg)
+- BLE Micro ProのUSBコネクタ側に寄せてコンスルーを取り付けます。Pro Microと異なりはんだ付けは不要です  
+- BLE Micro Proを裏向きでKugelに取り付けます  
 - BLE Micro Proのファームウェアをアップデートします
   - [https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/doc/getting_start.md](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/doc/getting_start.md)
 - Kugel用のファームウェアを書き込みます
   - [ビルド済みファームウェア](https://github.com/sekigon-gonnoc/Kugel-doc/releases)
 - Kugel用のコンフィグ(CONFIG.JSN, KEYMAP.JSN)を書き込みます
   - キーマップを変更する場合、メモ帳で直接編集するか、MAPEDIT.HTMからQMK configuratorを開いてkeymap.jsonをダウンロードしてください
-- BLE Micro ProのUSBコネクタ側に寄せてコンスルーを取り付けます。Pro Microと異なりはんだ付けは不要です  
-- BLE Micro Proを裏向きでKugelに取り付けます  
 - USBでパソコンに接続してキー入力ができることを確認してください
 
 ### ミドルプレート、ボトムプレートを取り付ける
