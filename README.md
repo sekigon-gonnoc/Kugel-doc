@@ -82,6 +82,7 @@
 
 ### 別途必要な部品
 - BLE Micro Pro x1
+  - [BOOTH](https://nogikes.booth.pm/items/1177319), [遊舎工房](https://yushakobo.jp/shop/ble-micro-pro/)にて販売中
 - コンスルーまたはピンヘッダ x2
 - タミヤ 楽しい工作シリーズ No.144　ボールキャスター 
   - 家電量販店や通販で購入できます
