@@ -184,10 +184,8 @@
 - BLE Micro ProのUSBコネクタ側に寄せてコンスルーを取り付けます。Pro Microと異なりはんだ付けは不要です  
 - BLE Micro Proを**裏向き**でKugelに取り付けます  
   - 同様に、コンスルーをUSBコネクタ側に寄せて基板に取り付けます。浮かないようにしっかり差し込んでください
-- BLE Micro Proのファームウェアをアップデートします
-  - [https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/doc/getting_start.md](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/doc/getting_start.md)
-- Kugel用のファームウェアを書き込みます
-  - [ビルド済みファームウェア](https://github.com/sekigon-gonnoc/Kugel-doc/releases)
+- [BLE Micro Pro Web Configurator](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/)を使ってファームウェアをアップデートします
+  - [使い方](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/getting_started?id=ble-micro-pro-web-configurator%e3%82%92%e4%bd%bf%e3%81%86)
 - Kugel-1というドライブが認識されたら、中にあるSTATUS.TXTを開いて、ICがすべて認識されていることを確認してください
     ```
     IO exp1:OK
