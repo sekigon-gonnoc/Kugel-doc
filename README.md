@@ -181,7 +181,7 @@
 ![build](./img/build019.jpg)
 ![build](./img/build028.jpg)
 ![build](./img/build029.jpg)
-- BLE Micro ProのUSBコネクタ側に寄せてコンスルーを取り付けます。Pro Microと異なりはんだ付けは不要です  
+- BLE Micro Proにコンスルーを取り付けます。コンスルーは一方は8~35、もう一方はBAT~10に差し込んでください（画像は8~35ではなくgnd~32に差さっているので誤りです）。Pro Microと異なりはんだ付けは不要です  
 - BLE Micro Proを**裏向き**でKugelに取り付けます  
   - 同様に、コンスルーをUSBコネクタ側に寄せて基板に取り付けます。浮かないようにしっかり差し込んでください
 - [BLE Micro Pro Web Configurator](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/)を使ってファームウェアをアップデートします
